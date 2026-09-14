@@ -1,0 +1,7 @@
+this is a dummy file
+it is created to only practice the code for file handling
+to understand the concepts
+file handling is a process 
+that allows to create, read, update, and delete 
+files according to need
+thats it
